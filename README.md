@@ -30,6 +30,7 @@ const svg = iconIpsum.icon()
 
 
 
+
 ## Usage CommonJS
 
 ```
