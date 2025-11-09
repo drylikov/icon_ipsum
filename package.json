@@ -1,0 +1,18 @@
+{
+  "name": "icon_ipsum",
+  "version": "0.1.1",
+  "description": "Lorem Ipsum for icons",
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    "import": "./index.mjs",
+    "require": "./index.cjs"
+  },
+  "types": "index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drylikov/icon_ipsum.git"
+  }
+}
