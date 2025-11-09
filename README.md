@@ -36,6 +36,7 @@ const svg = iconIpsum.icon()
 
 
 
+
 ```
 const modulePromise = require('icon-ipsum')
 
