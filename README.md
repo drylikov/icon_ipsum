@@ -19,6 +19,7 @@ Lorem Ipsum, for icons.
 
 
 
+
 ```
 import { IconIpsum } from 'icon-ipsum'
 
