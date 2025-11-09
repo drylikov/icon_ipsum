@@ -2,6 +2,7 @@
 
 
 
+
 export function Vec(x, y) {
   return { x, y }
 }
