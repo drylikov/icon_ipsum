@@ -46,4 +46,5 @@ modulePromise.then(({ IconIpsum }) => {
   const svg = iconIpsum.icon()
 })
 
+
 ```
