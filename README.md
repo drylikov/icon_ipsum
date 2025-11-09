@@ -18,6 +18,7 @@ Lorem Ipsum, for icons.
 ## Usage EsModules
 
 
+
 ```
 import { IconIpsum } from 'icon-ipsum'
 
